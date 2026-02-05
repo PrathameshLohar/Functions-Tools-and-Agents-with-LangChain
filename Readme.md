@@ -19,13 +19,14 @@ By working through these notebooks, you will learn how to:
 ---
 
 ## Repository Structure
-
+```text 
 ├── L1-openai_functions.ipynb
 ├── L2-lcel.ipynb
 ├── L3-function-calling.ipynb
 ├── L4-tagging-and-extraction.ipynb
 ├── L5-tools-routing-apis.ipynb
 └── L6-functional_conversation.ipynb
+```
 
 ---
 
